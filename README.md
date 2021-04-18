@@ -2,8 +2,8 @@
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-![](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
+ 
+![](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif) </a>
 
 
 
