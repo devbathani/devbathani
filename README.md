@@ -1,4 +1,4 @@
-### Hi there, I'm DEV BATHANI - Student at PARUL UNIVERSITY (B.TECH CSE AI).
+### Hey there, I'm DEV BATHANI - Student at PARUL UNIVERSITY (B.TECH CSE AI).
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
