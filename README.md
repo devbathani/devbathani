@@ -1,4 +1,4 @@
-### Hey there, I'm DEV BATHANI - Student at PARUL UNIVERSITY (B.TECH CSE AI).
+### Hey there, I'm DEV BATHANI - Student at PARUL UNIVERSITY (B.TECH CSE AI) | Flutter Developer | GDSC_PU Technical team member.
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
@@ -18,7 +18,7 @@
 <hr>
 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=devbathani&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbathani" />	
+<img height="250px" src="https://github-readme-stats.vercel.app/api?username=devbathani&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbathani" />	
 </a>
 
 [linkedin]:https://www.linkedin.com/in/dev-bathani-5b87661ba/
