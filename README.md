@@ -3,7 +3,7 @@
 
 ### Connect with me: <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" height="32" >
  
-![](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif) </a>
+![](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif) </a>
 
 
 
