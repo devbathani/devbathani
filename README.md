@@ -18,7 +18,7 @@
 <hr>
 
 
-<img height="250px"  src="https://github-readme-stats.vercel.app/api?username=devbathani&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" width="450px"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" />	
+<img height="250px"  src="https://github-readme-stats.vercel.app/api?username=devbathani&show_icons=true&hide_title=true&count_private=true" />	
 </a>
 
 [linkedin]:https://www.linkedin.com/in/dev-bathani-5b87661ba/
