@@ -1,7 +1,7 @@
 ### Hey there, I'm DEV BATHANI - Student at PARUL UNIVERSITY (B.TECH CSE AI) | Flutter Developer | GDSC_PU Technical team member.
 
 
-### Connect with me: <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" height="32" >
+### Connect with me: <img src="https://cdn.dribbble.com/users/968319/screenshots/4139192/dribbble_network2.gif" height="32" >
  
 ![](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif) </a>
 
