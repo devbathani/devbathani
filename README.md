@@ -1,14 +1,44 @@
-### Hey there, I'm DEV BATHANI - | Flutter Developer | GDSC_PU Technical team member 
+
+# Hi, I'm Dev Bathani! 👋
 
 
-### Connect with me: <img src="https://cdn.dribbble.com/users/968319/screenshots/4139192/dribbble_network2.gif" height="32" >
- 
-![](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif) </a>
+## 🚀 About Me
+I'm a Flutter Developer and UI/UX Designer    
+I also like to create music...
+
+
+
+
+## 🛠 Skills
+Dart, Flutter, Firebase, Figma, C/C++, C#, Unity, Python
+
+
+## 🔗 Links
+
+[![Flutter](https://img.shields.io/badge/Flutter%20Frontend-Get%20cheat%20code%20for%20frontend%20widgets-green)](https://github.com/devbathani/FLUTTER-FRONTEND)
+
+
+## What's going on..
+👩‍💻 I'm currently working on Flutter Frontend
+
+🧠 I'm currently learning Server Backend
+
+👯‍♀️ I'm looking to collaborate on Flutter Projects (GSOC)
+
+💬 Ask me about Flutter Development 
+
+📫 How to reach me @bathanid888@gmail.com
+
+😄 Pronouns as Developer and Gamer
+
+⚡️ Fun fact I live in shorts 
+
+
 
 
 
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="mailto:reboot13.dev@gmail.com"><img align="left" alt="Sabesan | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /><a>
+<a href="bathanid888@gmail.com"><img align="left" alt="Sabesan | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /><a>
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Sabesan | Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
