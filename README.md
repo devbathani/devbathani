@@ -21,7 +21,7 @@ Dart, Flutter, Firebase, Figma, C/C++, C#, Unity, Python
 ## What's going on..
 👩‍💻 I'm currently working on Flutter Frontend
 
-🧠 I'm currently learning Server Backend
+🧠 I'm currently learning Server Backend (Node.js)
 
 👯‍♀️ I'm looking to collaborate on Flutter Projects (GSOC)
 
