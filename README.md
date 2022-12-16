@@ -10,7 +10,7 @@ I also like to create music...
 
 
 ## 🛠 Skills
-Dart, Flutter, Firebase, Figma, C/C++, C#, Unity, Python
+Dart, Flutter, Firebase, Figma, C/C++, C#, Unity, Python, Node, Javascript ,...
 
 
 ## 🔗 Links
