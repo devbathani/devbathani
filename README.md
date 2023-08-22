@@ -47,8 +47,6 @@ Dart, Flutter, Firebase, Figma, C/C++, C#, Unity, Python, Node, Javascript ,...
 
 <hr>
 
-
-<img height="250px"  src="https://github-readme-stats.vercel.app/api?username=devbathani&show_icons=true&hide_title=true&count_private=true" />	
 </a>
 
 [linkedin]:https://www.linkedin.com/in/dev-bathani-5b87661ba/
