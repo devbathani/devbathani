@@ -3,14 +3,14 @@
 
 
 ## 🚀 About Me
-I'm a Flutter Developer and UI/UX Designer    
+I'm a Flutter Developer and learning Native development  
 I also like to create music...
 
 
 
 
 ## 🛠 Skills
-Dart, Flutter, Firebase, Figma, C/C++, C#, Unity, Python, Node, Javascript ,...
+Dart, Flutter, React Native, Android Native, Ionic, Angular, Firebase, Figma, C/C++, C#, Unity, Python, Node, Javascript ,...
 
 
 ## 🔗 Links
@@ -19,7 +19,7 @@ Dart, Flutter, Firebase, Figma, C/C++, C#, Unity, Python, Node, Javascript ,...
 
 
 ## What's going on..
-👩‍💻 I'm currently working on Flutter Frontend
+👩‍💻 I'm currently working on Flutter
 
 🧠 I'm currently learning Server Backend (Node.js)
 
