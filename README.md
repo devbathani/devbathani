@@ -31,7 +31,7 @@ Dart, Flutter, React Native, Android Native, Ionic, Angular, Firebase, Figma, C/
 
 😄 Pronouns as Developer and Gamer
 
-⚡️ Fun fact I live in shorts 
+⚡️ Fun fact I live in shorts 🩳
 
 
 
