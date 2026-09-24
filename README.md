@@ -115,18 +115,20 @@
 ## 🏆 SCOREBOARD
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devbathani&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=devbathani&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=devbathani&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=devbathani&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/devbathani?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ff9c&labelColor=0d1117" />
+  <img alt="Flutter Frontend stars" src="https://img.shields.io/github/stars/devbathani/FLUTTER-FRONTEND?style=for-the-badge&logo=github&label=FLUTTER-FRONTEND&color=00ff9c&labelColor=0d1117" />
+  <img alt="Architecture Demo stars" src="https://img.shields.io/github/stars/devbathani/FLUTTER-ARCHITECHTURE-DEMO?style=for-the-badge&logo=github&label=ARCHITECTURE+DEMO&color=00ff9c&labelColor=0d1117" />
 </p>
 
----
-
 <p align="center">
-  <b>Got a project worth building together? Press START 👉 <a href="https://www.linkedin.com/in/devbathani/">let's talk</a></b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devbathani/devbathani/output/profile-night-rainbow.svg">
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/devbathani/devbathani/output/profile-green-animate.svg">
+  </picture>
 </p>
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
