@@ -44,6 +44,15 @@ jobs:
           python scripts/terminal.py
           mv output.gif dist/terminal.gif
 
+      - name: 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect 3D graphs
+        run: cp profile-3d-contrib/profile-night-rainbow.svg profile-3d-contrib/profile-green-animate.svg dist/
+
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
